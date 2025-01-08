@@ -23,6 +23,6 @@
 └─课件 --- rt
 ```
 
-> 更多优质资源可 + v
+> 关于**计算机硬件基础**更多优质资源可 + v
 > 
 > <img src="https://s2.loli.net/2025/01/08/XtGqHAxlpKQhrEY.jpg" alt="denerate" style="width: 300px; height: auto;">
