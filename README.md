@@ -16,6 +16,8 @@
 ├─深入理解计算机系统（原书第三版）-数据优化版.pdf --- rt 电子书
 ├─计组2024串讲.pdf --- 期末串讲PPT
 ├─计组复习课.pdf --- 23级计组期末复习笔记
+├─计算机硬件基础期末复习.pdf --- denerate期末复习的计组笔记
+├─计算机硬件基础笔记.pdf --- denerate随堂计组学习笔记
 ├─Logisim --- 课上课下实验 - Lab1 Logisim电路设计
 ├─MIPS --- 课上课下实验 - Lab2 MIPS汇编
 ├─cachelab --- 课上课下实验 - Lab3 Cache快速缓存
